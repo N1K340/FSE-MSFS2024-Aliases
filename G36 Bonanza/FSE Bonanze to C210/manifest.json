@@ -1,0 +1,19 @@
+{
+  "dependencies": [],
+  "content_type": "AIRCRAFT",
+  "title": "FSE Bonanza to C210",
+  "manufacturer": "Beechcraft",
+  "creator": "FSE",
+  "package_version": "0.0.1",
+  "minimum_game_version": "1.0.88",
+  "minimum_compatibility_version": "0.88.0.40",
+  "builder": "Microsoft Flight Simulator 2024",
+  "package_order_hint": "",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  },
+  "total_package_size": "00000000000000004213"
+}
